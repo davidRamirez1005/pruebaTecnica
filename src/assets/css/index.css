@@ -1,0 +1,14 @@
+/* src/index.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+*{
+	font-family: 'Red Hat Display';
+	padding: 0 ;
+	margin: 0 !important;
+	box-sizing: border-box;
+}
+body{
+    background-color: #7DA870;
+}

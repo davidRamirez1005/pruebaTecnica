@@ -1,0 +1,84 @@
+.container {
+  background-color: #edeeef;
+  height: 140vh;
+  padding: 1.4rem;
+  border-top-left-radius: 3%;
+  border-bottom-left-radius: 3%;
+}
+.presentation {
+  background-color: #eaa763;
+  display: content;
+  border-radius: 13px;
+  padding: 3%;
+  box-shadow: #577c659c 0px 5px 17px 2px;
+}
+.titulo {
+  font-size: 1.9rem;
+}
+.buttonVerMas{
+    background-color: #90b687;
+    width: 6vw;
+    height: 3vh;
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    align-content: center;
+    align-items: center;
+    border-radius: 13px;
+    color: #083d0d;
+    cursor: pointer;
+}
+.button {
+  background-color: rgb(49, 47, 47);
+  padding: 2%;
+  width: 13vw;
+  border-radius: 13px;
+  justify-content: center;
+  justify-items: center;
+  display: flex;
+  color: #e6e8ea;
+  cursor: pointer;
+}
+.img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.asaide {
+  background-color: #ffffff;
+  box-shadow: #577c659c 0px 5px 17px 2px;
+  border-bottom-right-radius: 13px;
+  border-bottom-left-radius: 13px;
+  padding: 4%;
+  height: auto;
+}
+.bar {
+  background-color: #e6e8ea;
+  padding-bottom: 6%;
+  border-radius: 20px;
+  height: auto;
+}
+.subtitulo {
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+.imgBar {
+  border-radius: 20px;
+}
+.contImg {
+  display: flex;
+  z-index: 2;
+  position: relative;
+  top: 21px;
+}
+.person img {
+  width: 6vw;
+  border-radius: 15px;
+}
+.contAuthores {
+  width: 100%;
+  padding: 4%;
+  border-radius: 15px;
+  box-shadow: #577c659c 0px 5px 17px 2px;
+  background-color: rgb(229, 232, 234);
+}
